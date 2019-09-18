@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "150561590946",
+    "firebase_url": "https://hng-mobile-7a204.firebaseio.com",
+    "project_id": "hng-mobile-7a204",
+    "storage_bucket": "hng-mobile-7a204.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:150561590946:android:0d82306e51483ee97f11fb",
+        "android_client_info": {
+          "package_name": "com.authapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "150561590946-anpvm5ala4745tgm92v5iobt1r0uok42.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuHU-3Fo5unj4I_ME1cIXXrntjuNgMLxU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "150561590946-anpvm5ala4745tgm92v5iobt1r0uok42.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "150561590946-saomvq8inahekp4ltf0vv7613k9bc9lo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.authApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
